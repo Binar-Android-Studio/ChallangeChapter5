@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">My Film</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="shr_app_name">Binar</string>
+    <string name="username">Masukkan Username</string>
+    <string name="fullname">Masukkan Nama Lengkap</string>
+    <string name="password">Masukkan Password</string>
+    <string name="login">Login</string>
+    <string name="cancel">Cancel</string>
+    <string name="register">Daftar Akun</string>
+    <string name="home">List Film</string>
+    <string name="account">Akun</string>
+    <string name="title">Film</string>
+    <string name="body">isi</string>
+    <string name="apakah_kamu_memiliki_akun">apakah kamu memiliki akun</string>
+    <string name="register_now">Resitrasi sekarang</string>
+    <string name="ulangpassword">Masukkan Ulang Password</string>
+    <string name="sudah_memiliki_akun">sudah memiliki akun</string>
+    <string name="login_sekarang">login sekarang</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="film_title">Judul Film</string>
+    <string name="film_edit">edit</string>
+    <string name="film_delete">delete</string>
+    <string name="PengaturanBahasa">Pengaturan Bahasa</string>
+    <string name="header_title" translatable="false">Danial</string>
+    <string name="header_text" translatable="false">List Film</string>
+    <string name="film_detail" translatable="false">detail</string>
+    <string name="detailName">Nama</string>
+    <string name="detailUsername" translatable="false">Username</string>
+    <string name="kembali_kemenu_home">Kembali Ke Menu Home</string>
+</resources>

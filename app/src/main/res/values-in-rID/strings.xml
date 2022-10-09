@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film saya</string>
+    <string name="shr_app_name">Binar</string>
+    <string name="username">Masukkan Username</string>
+    <string name="fullname">Masukkan Nama Lengkap</string>
+    <string name="password">Masukkan Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="cancel">Batal</string>
+    <string name="register">Daftar</string>
+    <string name="home">Daftar film</string>
+    <string name="account">Akun</string>
+    <string name="title">Film</string>
+    <string name="body">Isi</string>
+    <string name="apakah_kamu_memiliki_akun">Apakah kamu memiliki akun</string>
+    <string name="register_now">Registrasi Sekarang</string>
+    <string name="ulangpassword">Masukkan Ulang Password</string>
+    <string name="sudah_memiliki_akun">Sudah memiliki akun</string>
+    <string name="login_sekarang">Login Sekarang</string>
+    <string name="film_title">Judul Film</string>
+    <string name="film_edit">Mengubah</string>
+    <string name="film_delete">Menghapus</string>
+    <string name="PengaturanBahasa">Pengaturan Bahasa</string>
+    <string name="detailName">Nama</string>
+    <string name="kembali_kemenu_home">Kembali Ke Menu</string>
+</resources>
