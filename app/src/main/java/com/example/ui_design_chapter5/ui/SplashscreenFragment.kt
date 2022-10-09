@@ -35,7 +35,7 @@ class Splashscreen : Fragment() {
                 findNavController().navigate(R.id.action_splashscreen_to_listFilmFragment)
             else
                 findNavController().navigate(R.id.action_splashscreen_to_loginFragment)
-        },1000)
+        },2500)
     }
 
 }
